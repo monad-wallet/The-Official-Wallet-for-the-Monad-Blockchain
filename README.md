@@ -73,7 +73,7 @@ Supports:
 - Desktop application (macOS, Windows, Linux)
 
 ### 🛠️ Developer Guide
-Add [Monad](https://momonad.com) to a Web3 App
+Add [Monad](https://monmonad.com) to a Web3 App
 
 ```js
 await provider.request({
