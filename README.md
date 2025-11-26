@@ -7,7 +7,7 @@ Official non-custodial wallet for the Monad blockchain
 
 ## Overview
 
-[Monad wallet]((https://monadapp.org)) is the official wallet for interacting with the Monad Layer-1 blockchain.  
+[Monad wallet](https://monadapp.org)) is the official wallet for interacting with the Monad Layer-1 blockchain.  
 It provides a secure, high-performance interface for managing assets, connecting to dApps, and participating in the Monad ecosystem.
 
 Monad is a high-throughput, EVM-compatible blockchain designed for scalability and low-latency execution. Monad Wallet enables safe and efficient access to all core network features.
