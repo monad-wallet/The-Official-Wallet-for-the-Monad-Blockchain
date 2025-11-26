@@ -66,6 +66,8 @@ Supports:
 4. Adjust gas (optional — Monad fees are extremely low)
 5. Confirm
 
+### Monad Staking is live—stake Mon and earn 21% APR
+
 ### Cross-Platform Availability
 
 - Browser extension (Chrome, Firefox, Brave)
